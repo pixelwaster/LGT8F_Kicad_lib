@@ -1,4 +1,4 @@
 # LGT8F_Kicad_lib
 LGT8F symbols for use in KiCad
 
-Currently only the QFP-48 is done.  The QFP-32 and DIP-20 are coming soon.
+Currently the QFP-48 and QFP-32 are done.  The SSOP-20 is coming soon.
