@@ -1,7 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LGT8F328P-QFP32
+D Logic Green Technologies 32 pin microcontroller similar to 328P
+F https://github.com/dbuezas/lgt8fx/raw/master/docs/LGT8FX8P_databook_v1.0.5-English.pdf
+$ENDCMP
+#
 $CMP LGT8F328P-QFP48
-D Logic Green Technologies 48 pin microcontroller similar to 328P 
+D Logic Green Technologies 48 pin microcontroller similar to 328P
+F https://github.com/dbuezas/lgt8fx/raw/master/docs/LGT8FX8P_databook_v1.0.5-English.pdf
 $ENDCMP
 #
 #End Doc Library
